@@ -22,6 +22,7 @@ public:
     char *password;
     void getid()
     {
+	cout<<"hello world";
         cout<<"Enter your User-id : ";
         cin>>id;
         cout<<"Enter the Password : ";
